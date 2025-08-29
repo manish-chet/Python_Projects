@@ -6,6 +6,5 @@
     # Hello Elshad.
     # Wellcome to the Pythonname = input("Enter your name:")
 
-``` bash 
     print(f"Hello {name}")
     print("Wellcome to the Python")
