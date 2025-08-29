@@ -6,5 +6,5 @@
     # Hello Elshad.
     # Wellcome to the Pythonname = input("Enter your name:")
 
-    print(f"Hello {name}")
-    print("Wellcome to the Python")
+print(f"Hello {name}")
+print("Wellcome to the Python")
